@@ -1,6 +1,6 @@
 # ☕ Gabriel dos Anjos 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
-* Me chamo Gabriel dos Anjos, tenho 18 anos e sou natural de Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Tenho interesse na área de tecnologia desde pequeno e hoje sigo em busca de novos conhecimentos e experiências na área. 
+* Me chamo Gabriel dos Anjos, tenho 19 anos e sou natural de Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Tenho interesse na área de tecnologia desde pequeno e hoje sigo em busca de novos conhecimentos e experiências na área. 
 ---
 <h1 align="left">Linguagens e Tecnologias</h1>
 
